@@ -1,0 +1,14 @@
+C:\Users\משתמש\Desktop\Ex01_Q6\Ex01_Q1\bin\Debug\net8.0\Ex01_Q1.exe
+C:\Users\משתמש\Desktop\Ex01_Q6\Ex01_Q1\bin\Debug\net8.0\Ex01_Q1.deps.json
+C:\Users\משתמש\Desktop\Ex01_Q6\Ex01_Q1\bin\Debug\net8.0\Ex01_Q1.runtimeconfig.json
+C:\Users\משתמש\Desktop\Ex01_Q6\Ex01_Q1\bin\Debug\net8.0\Ex01_Q1.dll
+C:\Users\משתמש\Desktop\Ex01_Q6\Ex01_Q1\bin\Debug\net8.0\Ex01_Q1.pdb
+C:\Users\משתמש\Desktop\Ex01_Q6\Ex01_Q1\obj\Debug\net8.0\Ex01_Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Desktop\Ex01_Q6\Ex01_Q1\obj\Debug\net8.0\Ex01_Q1.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\Ex01_Q6\Ex01_Q1\obj\Debug\net8.0\Ex01_Q1.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\Ex01_Q6\Ex01_Q1\obj\Debug\net8.0\Ex01_Q1.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\Ex01_Q6\Ex01_Q1\obj\Debug\net8.0\Ex01_Q1.dll
+C:\Users\משתמש\Desktop\Ex01_Q6\Ex01_Q1\obj\Debug\net8.0\refint\Ex01_Q1.dll
+C:\Users\משתמש\Desktop\Ex01_Q6\Ex01_Q1\obj\Debug\net8.0\Ex01_Q1.pdb
+C:\Users\משתמש\Desktop\Ex01_Q6\Ex01_Q1\obj\Debug\net8.0\Ex01_Q1.genruntimeconfig.cache
+C:\Users\משתמש\Desktop\Ex01_Q6\Ex01_Q1\obj\Debug\net8.0\ref\Ex01_Q1.dll
