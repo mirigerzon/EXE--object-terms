@@ -1,0 +1,15 @@
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex02_Q1\bin\Debug\net8.0\Ex02_Q1.exe
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex02_Q1\bin\Debug\net8.0\Ex02_Q1.deps.json
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex02_Q1\bin\Debug\net8.0\Ex02_Q1.runtimeconfig.json
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex02_Q1\bin\Debug\net8.0\Ex02_Q1.dll
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex02_Q1\bin\Debug\net8.0\Ex02_Q1.pdb
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex02_Q1\obj\Debug\net8.0\Ex02_Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex02_Q1\obj\Debug\net8.0\Ex02_Q1.AssemblyInfoInputs.cache
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex02_Q1\obj\Debug\net8.0\Ex02_Q1.AssemblyInfo.cs
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex02_Q1\obj\Debug\net8.0\Ex02_Q1.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex02_Q1\obj\Debug\net8.0\Ex02_Q1.sourcelink.json
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex02_Q1\obj\Debug\net8.0\Ex02_Q1.dll
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex02_Q1\obj\Debug\net8.0\refint\Ex02_Q1.dll
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex02_Q1\obj\Debug\net8.0\Ex02_Q1.pdb
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex02_Q1\obj\Debug\net8.0\Ex02_Q1.genruntimeconfig.cache
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex02_Q1\obj\Debug\net8.0\ref\Ex02_Q1.dll
