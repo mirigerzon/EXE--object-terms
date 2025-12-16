@@ -1,0 +1,5 @@
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex04_Q5\obj\Debug\net8.0\Ex04_Q5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex04_Q5\obj\Debug\net8.0\Ex04_Q5.AssemblyInfoInputs.cache
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex04_Q5\obj\Debug\net8.0\Ex04_Q5.AssemblyInfo.cs
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex04_Q5\obj\Debug\net8.0\Ex04_Q5.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex04_Q5\obj\Debug\net8.0\Ex04_Q5.sourcelink.json

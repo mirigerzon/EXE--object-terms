@@ -1,0 +1,15 @@
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex03_Q7\obj\Debug\net8.0\Ex03_Q7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex03_Q7\obj\Debug\net8.0\Ex03_Q7.AssemblyInfoInputs.cache
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex03_Q7\obj\Debug\net8.0\Ex03_Q7.AssemblyInfo.cs
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex03_Q7\obj\Debug\net8.0\Ex03_Q7.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex03_Q7\obj\Debug\net8.0\Ex03_Q7.sourcelink.json
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex03_Q7\bin\Debug\net8.0\Ex03_Q7.exe
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex03_Q7\bin\Debug\net8.0\Ex03_Q7.deps.json
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex03_Q7\bin\Debug\net8.0\Ex03_Q7.runtimeconfig.json
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex03_Q7\bin\Debug\net8.0\Ex03_Q7.dll
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex03_Q7\bin\Debug\net8.0\Ex03_Q7.pdb
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex03_Q7\obj\Debug\net8.0\Ex03_Q7.dll
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex03_Q7\obj\Debug\net8.0\refint\Ex03_Q7.dll
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex03_Q7\obj\Debug\net8.0\Ex03_Q7.pdb
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex03_Q7\obj\Debug\net8.0\Ex03_Q7.genruntimeconfig.cache
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex03_Q7\obj\Debug\net8.0\ref\Ex03_Q7.dll
