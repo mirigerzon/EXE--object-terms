@@ -3,3 +3,13 @@ C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex04_Q5\obj\Debug\
 C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex04_Q5\obj\Debug\net8.0\Ex04_Q5.AssemblyInfo.cs
 C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex04_Q5\obj\Debug\net8.0\Ex04_Q5.csproj.CoreCompileInputs.cache
 C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex04_Q5\obj\Debug\net8.0\Ex04_Q5.sourcelink.json
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex04_Q5\bin\Debug\net8.0\Ex04_Q5.exe
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex04_Q5\bin\Debug\net8.0\Ex04_Q5.deps.json
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex04_Q5\bin\Debug\net8.0\Ex04_Q5.runtimeconfig.json
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex04_Q5\bin\Debug\net8.0\Ex04_Q5.dll
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex04_Q5\bin\Debug\net8.0\Ex04_Q5.pdb
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex04_Q5\obj\Debug\net8.0\Ex04_Q5.dll
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex04_Q5\obj\Debug\net8.0\refint\Ex04_Q5.dll
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex04_Q5\obj\Debug\net8.0\Ex04_Q5.pdb
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex04_Q5\obj\Debug\net8.0\Ex04_Q5.genruntimeconfig.cache
+C:\Users\משתמש\source\repos\mirigerzon\EXE--object-terms\Ex04_Q5\obj\Debug\net8.0\ref\Ex04_Q5.dll
